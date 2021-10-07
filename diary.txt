@@ -1,0 +1,25 @@
+Lab1：
+Be familiar with the environment.
+Try to run some codes in Jupyter Notebook.
+Lab2：
+Learn to install/use package and library.
+use glimpse() to view the dataset
+select particular columns
+Lab3：
+use filter , group,summarise by to do mutation
+ggplot to plot
+Lab4：
+read csv document
+read modify content
+Lab5:
+lean some knowledge of R(vector,indexing etc)
+lab6:
+read and process image
+image_rotate(angle)
+image_flip()/image_flop()
+use image_blur to for blurring
+image_edge to visualize the edge of the image
+lab7:
+watch videos about scraping prices for different roses
+try to scrap dataset from html page
+define my own function
